@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dhruv Dhari</h1>
-<h3 align="center">A passionate Learner who wants to deep dive in web3</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxob201MjMycXQwcjdkMTdmNmhwbTM1bTY5NzR1M21pb241dnNhayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvdhari&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvdhari" /> </p>
 
-- 🌱 I’m currently learning **web3**
+- 👀 I’m interested in **Web3, Full Stack Development**
+
+- 🌱 I’m currently learning **building websites using MERN**
 
 - 📫 How to reach me **dhruvdhari2003@gmail.com**
 
-- ⚡ Fun fact **I can play guitar when bored😉**
+- ⚡ I am looking to Collaborate in **Open Source Projects**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
